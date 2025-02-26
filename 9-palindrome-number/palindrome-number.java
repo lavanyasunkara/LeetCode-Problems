@@ -1,11 +1,18 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String s=String.valueOf(x);
-        int n =s.length();
-        for(int i=0;i<n/2;i++)
-        {
-            if(s.charAt(i)!=s.charAt(n-i-1)) return false;
+        if(x<0){
+            return false;
         }
-        return true;
+        int n;
+        int sum=0;
+        int temp=x;
+        while(x>0)
+        {
+            n=x%10;
+            sum=sum*10+n;
+            x=x/10;
+        
+        }
+        return temp==sum;
     }
 }
