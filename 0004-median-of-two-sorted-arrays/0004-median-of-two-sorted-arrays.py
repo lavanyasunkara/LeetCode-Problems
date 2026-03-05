@@ -11,5 +11,6 @@ class Solution(object):
         for i in nums2:
             list1.append(i)
         list1.sort()
-        return list1[len(list1)/2] if len(list1)%2!=0 else float(float((list1[len(list1)/2])+float(list1[(len(list1)/2)-1]))/2)
+        n=len(list1)
+        return list1[n/2] if n%2!=0 else float(float((list1[n/2])+float(list1[(n/2)-1]))/2)
         
