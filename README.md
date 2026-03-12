@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lavanyasunkara/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lavanyasunkara/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lavanyasunkara/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lavanyasunkara/LeetCode-Problems/tree/master/0007-reverse-integer) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lavanyasunkara/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
